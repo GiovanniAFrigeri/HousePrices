@@ -1,0 +1,1 @@
+Repository for predicting house pricing with linear regression
